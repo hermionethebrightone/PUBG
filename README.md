@@ -20,6 +20,7 @@ Ember.js also provides access to the most advanced features of JavaScript, HTML 
 - [Blog](https://emberjs.com/blog)
 - [Builds](https://emberjs.com/builds)
 
+Test added
 # Contribution
 
 See [CONTRIBUTING.md](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
