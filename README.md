@@ -22,7 +22,7 @@ Ember.js also provides access to the most advanced features of JavaScript, HTML 
 
 Test added
 # Contribution
-
+jejdiwjdi
 one more edit
 See [CONTRIBUTING.md](https://github.com/emberjs/ember.js/blob/master/CONTRIBUTING.md)
 
