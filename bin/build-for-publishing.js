@@ -95,4 +95,8 @@ Promise.resolve()
       // failure, must manually exit non-zero
       process.exit(1);
     }
+  
+  sdfsd
+  sdfsdf
+  
   );
